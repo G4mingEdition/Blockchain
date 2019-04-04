@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1526312674 source:d:\bureau\project_c_2018_03\projet_c_2018_03\projet\functions.c
+	"projet.h"
+
+1526312674 d:\bureau\project_c_2018_03\projet_c_2018_03\projet\projet.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"..\blockChain\blockChain.h"
+	"..\librairieChiffrement\chiffrement.h"
+	"..\conioplus\conioplus.h"
+	"..\JSON_librairie\json.h"
+
+1526312674 d:\bureau\project_c_2018_03\projet_c_2018_03\blockchain\blockchain.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<malloc.h>
+	"..\librairieChiffrement\chiffrement.h"
+
+1526312674 d:\bureau\project_c_2018_03\projet_c_2018_03\librairiechiffrement\chiffrement.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1526312674 d:\bureau\project_c_2018_03\projet_c_2018_03\conioplus\conioplus.h
+	<conio.h>
+
+1526312674 d:\bureau\project_c_2018_03\projet_c_2018_03\json_librairie\json.h
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1526324839 source:d:\bureau\project_c_2018_03\projet_c_2018_03\projet\historiques.c
+	"projet.h"
+
+1526312674 source:d:\bureau\project_c_2018_03\projet_c_2018_03\projet\interface.c
+	"projet.h"
+
+1526324992 source:d:\bureau\project_c_2018_03\projet_c_2018_03\projet\main.c
+	"projet.h"
+

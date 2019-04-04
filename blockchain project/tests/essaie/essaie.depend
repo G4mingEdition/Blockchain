@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1523284123 source:d:\bureau\project_c_2018_03\essaie\main.c
+	<stdio.h>
+	<myconio.h>
+	<string.h>
+	"..\projet_c_2018_03\blockChain\blockChain.h"
+
+1523233713 d:\bureau\project_c_2018_03\projet_c_2018_03\blockchain\blockchain.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<malloc.h>
+	"..\librairieChiffrement\chiffrement.h"
+
+1523233601 d:\bureau\project_c_2018_03\projet_c_2018_03\librairiechiffrement\chiffrement.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1523829400 source:c:\users\chris\desktop\essaie\main.c
+	<stdio.h>
+	<myconio.h>
+	<string.h>
+	"..\blockChain\blockChain.h"
+
+1523829328 c:\users\chris\desktop\blockchain\blockchain.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<malloc.h>
+	"..\librairieChiffrement\chiffrement.h"
+
+1523233601 c:\users\chris\desktop\librairiechiffrement\chiffrement.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
